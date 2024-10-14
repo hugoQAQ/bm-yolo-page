@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hugoqaq.github.io/bm-yolo-page/sitemap.xml
